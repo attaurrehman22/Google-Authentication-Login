@@ -27,7 +27,7 @@ import { AppComponent } from './app.component';
           {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider(
-              'client-id'
+              '857279394704-iiqto7cbg4e51jjf346lfj9pis5p9mlm.apps.googleusercontent.com'
             )
           }
         ],
